@@ -6,4 +6,3 @@ new = []
 a = name_hash.collect do |item, num|
   a.min
   end
-end
